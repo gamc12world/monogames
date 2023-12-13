@@ -1,0 +1,14 @@
+/home/anish/monogames/bin/Debug/net8.0/monogames
+/home/anish/monogames/bin/Debug/net8.0/monogames.deps.json
+/home/anish/monogames/bin/Debug/net8.0/monogames.runtimeconfig.json
+/home/anish/monogames/bin/Debug/net8.0/monogames.dll
+/home/anish/monogames/bin/Debug/net8.0/monogames.pdb
+/home/anish/monogames/obj/Debug/net8.0/monogames.GeneratedMSBuildEditorConfig.editorconfig
+/home/anish/monogames/obj/Debug/net8.0/monogames.AssemblyInfoInputs.cache
+/home/anish/monogames/obj/Debug/net8.0/monogames.AssemblyInfo.cs
+/home/anish/monogames/obj/Debug/net8.0/monogames.csproj.CoreCompileInputs.cache
+/home/anish/monogames/obj/Debug/net8.0/monogames.dll
+/home/anish/monogames/obj/Debug/net8.0/refint/monogames.dll
+/home/anish/monogames/obj/Debug/net8.0/monogames.pdb
+/home/anish/monogames/obj/Debug/net8.0/monogames.genruntimeconfig.cache
+/home/anish/monogames/obj/Debug/net8.0/ref/monogames.dll
